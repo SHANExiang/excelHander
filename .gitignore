@@ -1,0 +1,10 @@
+.idea
+config_www.json
+test/
+openapi.yaml
+*bak
+*test.go
+ip2region.xdb
+.vscode
+.proto
+ip2region/*
